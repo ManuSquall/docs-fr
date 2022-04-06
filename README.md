@@ -16,7 +16,7 @@ Utilisez les extensions suivantes pour éviter les fautes orthographiques:
 
 ### Partager le travail de traduction
 
-Nous travaillons pour le moment avec les [issues](/issues) et le board [projects](/projects/1) pour partager le travail de traduction avec tous les membres impliqués.
+Nous travaillons pour le moment avec les [issues](https://github.com/edimitchel/docs-fr/issues) et le board [projects](https://github.com/edimitchel/docs-fr/projects/1) pour partager le travail de traduction avec tous les membres impliqués.
 Des issues chapeau feront office de tracking pour chaque sous-partie de la documentation.
 
 - Guide
